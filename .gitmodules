@@ -1,0 +1,6 @@
+[submodule "polygear"]
+	path = PolyGear
+	url = https://github.com/dpellegr/PolyGear.git
+[submodule "examples/gearbox/catchnhole"]
+	path = examples/gearbox/catchnhole
+	url = https://github.com/mmalecki/catchnhole
